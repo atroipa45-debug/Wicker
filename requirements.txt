@@ -1,0 +1,4 @@
+aiogram>=3.25,<4
+python-dotenv>=1.0
+aiohttp-socks>=0.8
+uvloop>=0.19; sys_platform != "win32"
